@@ -4,7 +4,7 @@ from helper import greet
 
 def main():
     # Use the greet function
-    message = greet("Alice")
+    message = greet("MrMody")
     print(message)
 
 if __name__ == "__main__":
